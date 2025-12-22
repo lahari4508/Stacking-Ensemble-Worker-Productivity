@@ -25,7 +25,7 @@ The ensemble approach reduces individual model bias and improves overall predict
 - Rows: 1,197  
 - Features: 15 (Targeted productivity, incentives, team size, SMV, overtime, etc.)
 ## 📂 Dataset Link
-https://medium.com/towards-artificial-intelligence/productivity-prediction-of-employees-using-machine-learning-python-24a327534f71
+https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees
 
 
 ## ⚙️ Methodology
