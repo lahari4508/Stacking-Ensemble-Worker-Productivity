@@ -26,12 +26,15 @@ The ensemble approach reduces individual model bias and improves overall predict
 - Features: 15 (Targeted productivity, incentives, team size, SMV, overtime, etc.)
 
 ## ⚙️ Methodology
-1. Data collection from Kaggle  
-2. Data preprocessing and cleaning  
-3. Feature selection and engineering  
-4. Training individual regression models  
-5. Applying stacking ensemble technique  
-6. Model evaluation using multiple metrics  
+
+The proposed system uses a stacking ensemble learning approach to predict worker productivity.
+Multiple base regression models are trained in parallel, and their predictions are combined
+using a meta-classifier to generate the final prediction.
+
+![Stacked Generalization Architecture](images/stacking_methodology.png)
+
+**Figure:** Stacked generalization scheme showing base models, meta-classifier, and final prediction.
+
 
 ## 📈 Evaluation Metrics
 - Mean Absolute Error (MAE)  
