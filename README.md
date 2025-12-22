@@ -24,6 +24,9 @@ The ensemble approach reduces individual model bias and improves overall predict
 - Source: Kaggle  
 - Rows: 1,197  
 - Features: 15 (Targeted productivity, incentives, team size, SMV, overtime, etc.)
+## 📂 Dataset Link
+https://www.kaggle.com/datasets/uciml/garments-worker-productivity
+
 
 ## ⚙️ Methodology
 
