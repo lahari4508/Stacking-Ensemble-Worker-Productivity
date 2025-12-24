@@ -24,6 +24,7 @@ The ensemble approach reduces individual model bias and improves overall predict
 - Source: Kaggle  
 - Rows: 1,197  
 - Features: 15 (Targeted productivity, incentives, team size, SMV, overtime, etc.)
+- 
 ## 📂 Dataset Link
 https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees
 
@@ -37,7 +38,6 @@ using a meta-classifier to generate the final prediction.
 ![Stacked Generalization Architecture](images/stacking_methodology.png)
 
 **Figure:** Stacked generalization scheme showing base models, meta-classifier, and final prediction.
-
 
 ## 📈 Evaluation Metrics
 - Mean Absolute Error (MAE)  
